@@ -1,0 +1,8 @@
+const ActionType = {
+    SIGNUPLOADER:"SIGNUPLOADER",
+    SIGNINLOADER:"SIGNINLOADER",
+    LOADER:"LOADER",
+    CURRENTUSER:"CURRENTUSER",
+}
+
+export default ActionType;

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">jobPortalApp</string>
+    <string name="facebook_app_id">2271773933112265</string>
+    <string name="fb_login_protocol_scheme">fb2271773933112265</string>
+</resources>

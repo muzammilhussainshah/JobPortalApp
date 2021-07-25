@@ -1,0 +1,6 @@
+keytool -list -v -keystore C:/Users/Sahil Khan/.android/debug.keystore -alias androiddebugkey -storepass android -keypass android 
+https://stackoverflow.com/questions/15727912/sha-1-fingerprint-of-keystore-certificate
+for google fingerprint
+
+
+keytool -exportcert -alias my-key-alias -keystore "E:\mass training\react-native\job portal\android\app\my-release-key.keystore" -list -v
